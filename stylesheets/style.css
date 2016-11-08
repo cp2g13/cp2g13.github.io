@@ -1,0 +1,27 @@
+/*Artfully created by Chrysia-Maria Pegasiou */
+
+body{
+	font-family: Helvetica;
+	font-weight: normal;
+	font-size: 16px;
+	position: relative;
+	background-color: White;
+}
+
+h3{
+		font-weight: bold;
+		font-size: 14px;
+
+}
+
+footer{
+	position: absolute;
+	background-color: #3a0b52;
+	margin-bottom: 1%;
+	color: white;
+	font-size: 10px;
+	left:0;
+	right:0;
+	bottom: 0;
+
+}
